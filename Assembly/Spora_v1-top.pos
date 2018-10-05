@@ -1,0 +1,35 @@
+### Module positions - created on lun 22 may 2017 18:19:20 ART ###
+### Printed by Pcbnew version kicad 4.0.2+dfsg1-2~bpo8+1-stable
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val          Package                    PosX       PosY       Rot  Side
+C1        4.7uF        c_0201                   8.9750     9.0500  180.0000  top
+C2        4.7uF        c_0201                  10.3000    10.8000  270.0000  top
+C3        4.7uF        c_0201                   1.4000     6.9000  135.0000  top
+C4        0.1uF        c_0201                   1.4000    10.5000  225.0000  top
+C5        0.1uF        c_0201                  10.9000     6.9000  270.0000  top
+C6        0.1uF        c_0201                   4.8000     4.7000    0.0000  top
+C7        0.1uF        c_0201                   8.9750     8.5500  180.0000  top
+C16       0.1uF        c_0201                   5.5000    13.4000  270.0000  top
+C22       4.7uF        c_0201                   1.1000    10.8000  225.0000  top
+D1        ESD5V0D3-TP  SOD-323                 10.9000     9.0000   90.0000  top
+F4        CONN_1       FIDUCIAL_65MIL          -5.0000     9.0000    0.0000  top
+F5        CONN_1       FIDUCIAL_65MIL          12.6000    -4.0000    0.0000  top
+F6        CONN_1       FIDUCIAL_65MIL          19.0000    20.0000    0.0000  top
+R1        49.9         r_0201                   4.0000     6.3000  270.0000  top
+R2        68K          r_0201                   6.3000     8.7500    0.0000  top
+R3        DNP          r_0201                   2.8500    12.4500   90.0000  top
+R4        1.5K         r_0201                   5.6000     4.6000   90.0000  top
+R8        4.7K         r_0201                   4.9000    13.4000  270.0000  top
+R15       0 ohm        r_0402                   2.5000     5.8000    0.0000  top
+R16       DNP          r_0402                   4.5000     3.6000  270.0000  top
+R17       DNP          r_0402                   2.5000     5.0000  180.0000  top
+R18       0 ohm        r_0402                   3.6000     3.6000  270.0000  top
+TP1       TESTPOINT    TESTPOINT               11.8000     5.4000    0.0000  top
+TP2       TESTPOINT    TESTPOINT                7.6000     9.0000    0.0000  top
+TP3       TESTPOINT    TESTPOINT                1.8000    12.6000    0.0000  top
+U1        TPS2115a     TPS2115A                 7.7300     6.4700  270.0000  top
+U2        TPS82740B    TPS82740B                2.8777     8.7254  270.0000  top
+U3        MCP73831     MCP73821                 7.5000    10.5000   90.0000  top
+USB1      USB-MICRO    conn_usb_B_micro_smd    15.5500     8.9600   90.0000  top
+## End
